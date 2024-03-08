@@ -1,6 +1,8 @@
 RENCANA BELAJAR KZK
 
 Mempelajari Dart
+  * dasar
+  * intermediate
 Mempelajari Flutter
 Mempelajari Figma
 Mempelajari Firebase
