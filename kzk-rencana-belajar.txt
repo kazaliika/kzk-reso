@@ -3,8 +3,10 @@ RENCANA BELAJAR KZK
 Mempelajari Dart
   * dasar
   * intermediate
+  * langsung ke mobile developer
+  * CRUD
 Mempelajari Flutter
 Mempelajari Figma
+  * desain ui mobile
 Mempelajari Firebase
-Mempelajari FlutterFlow
 Mempelajari Debugging Dart
