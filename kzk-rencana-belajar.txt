@@ -10,7 +10,6 @@ Mempelajari Figma
   * dasar
   * praktek
 Mempelajari Firebase
-Mempelajari FlutterFlow
 Mempelajari Debugging Dart
 Java
 Kotlin
