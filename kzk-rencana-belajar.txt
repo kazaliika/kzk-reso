@@ -11,5 +11,6 @@ Mempelajari Figma
   * praktek
 Mempelajari Firebase
 Mempelajari Debugging Dart
-Java
-Kotlin
+Mempelajari SQL
+Mempelajari Python
+Mempelajari cara menggunkan Google Collab
